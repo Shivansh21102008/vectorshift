@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # VectorShift Frontend Technical Assessment
 
 A complete pipeline builder application built with React + FastAPI.
@@ -84,3 +85,7 @@ Both must be running for the **Analyze Pipeline** button to work.
 2. Connect nodes by dragging from output (right) to input (left) handles
 3. For Text nodes, type `{{var_name}}` to create dynamic input handles
 4. Click **Analyze Pipeline** to submit to the backend and see node/edge counts + DAG status
+=======
+# vectorshift
+Pipeline builder app using React + FastAPI with dynamic nodes, DAG validation, and real-time backend integration.
+>>>>>>> 6ac83b734f1ea684aadd635dfdf56ca1ea6d01d3
